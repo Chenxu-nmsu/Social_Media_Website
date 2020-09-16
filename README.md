@@ -27,9 +27,9 @@ This is an academic project. The main idea is to demonstrate how to build a webs
 | :--------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------: |
 | ![](https://github.com/Chenxu-nmsu/Social_Media_Website_Using_Python_and_Django/blob/master/Screenshots/Index_page.png) | ![](https://github.com/Chenxu-nmsu/Social_Media_Website_Using_Python_and_Django/blob/master/Screenshots/Sign_up_page.png) | ![](https://github.com/Chenxu-nmsu/Social_Media_Website_Using_Python_and_Django/blob/master/Screenshots/log_in_page.png) |
 
-|                                        People                                        |                                        Explore                                        |                                        Notifications                                        |
+|                                        Posts                                        |                                        Groups-1                                        |                                        Groups-2                                        |
 | :----------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------: |
-| ![](https://res.cloudinary.com/dkkf9iqnd/image/upload/v1573322911/people_ag2to0.png) | ![](https://res.cloudinary.com/dkkf9iqnd/image/upload/v1573322912/explore_uewztd.png) | ![](https://res.cloudinary.com/dkkf9iqnd/image/upload/v1573322910/notifications_yfxweb.png) |
+| ![](https://github.com/Chenxu-nmsu/Social_Media_Website_Using_Python_and_Django/blob/master/Screenshots/post_creation_page.png) | ![](https://github.com/Chenxu-nmsu/Social_Media_Website_Using_Python_and_Django/blob/master/Screenshots/group_page.png) | ![](https://github.com/Chenxu-nmsu/Social_Media_Website_Using_Python_and_Django/blob/master/Screenshots/group_page.png) |
 
 ## Requirements
 - Python 3.8
