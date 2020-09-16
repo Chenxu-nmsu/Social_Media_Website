@@ -23,9 +23,9 @@ This is an academic project. The main idea is to demonstrate how to build a webs
 
 ## Screenshots of the app
 
-|                                        Home                                        |                                        Messages                                        |                                        Profile                                        |
+|                                        Home                                        |                                                 Sign up                                        |                                        Login                                        |
 | :--------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------: |
-| ![](https://res.cloudinary.com/dkkf9iqnd/image/upload/v1573322911/home_nmms37.png) | ![](https://res.cloudinary.com/dkkf9iqnd/image/upload/v1573322910/messages_kt8gts.png) | ![](https://res.cloudinary.com/dkkf9iqnd/image/upload/v1573322910/profile_nzntwk.png) |
+| ![](https://github.com/Chenxu-nmsu/Social_Media_Website_Using_Python_and_Django/blob/master/Screenshots/Index_page.png) | ![](https://github.com/Chenxu-nmsu/Social_Media_Website_Using_Python_and_Django/blob/master/Screenshots/Sign_up_page.png) | ![](https://github.com/Chenxu-nmsu/Social_Media_Website_Using_Python_and_Django/blob/master/Screenshots/log_in_page.png) |
 
 |                                        People                                        |                                        Explore                                        |                                        Notifications                                        |
 | :----------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------: |
