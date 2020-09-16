@@ -44,6 +44,6 @@ python  manage.py runserver
 - Home Page
 - ![Home Page](https://github.com/Chenxu-nmsu/Social_Media_Website_Using_Python_and_Django/blob/master/Screenshots/Index_page.png)
 
-<p align="center">
-  <img src="https://github.com/Chenxu-nmsu/Social_Media_Website_Using_Python_and_Django/blob/master/Screenshots/Index_page.png" width="350" title="Home Page">
+<p align="left">
+  <img src="https://github.com/Chenxu-nmsu/Social_Media_Website_Using_Python_and_Django/blob/master/Screenshots/Index_page.png" width="1000" title="Home Page">
 </p>
