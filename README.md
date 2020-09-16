@@ -40,3 +40,6 @@ This is an academic project. The main idea is to demonstrate how to build a webs
 ```sh
 python  manage.py runserver
 ```
+
+- Home Page
+- ![Home Page](https://github.com/Chenxu-nmsu/Social_Media_Website_Using_Python_and_Django/blob/master/Screenshots/Index_page.png)
