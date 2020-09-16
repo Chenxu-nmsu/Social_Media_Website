@@ -21,16 +21,6 @@ This is an academic project. The main idea is to demonstrate how to build a webs
 - Manually validate unvalidated users
 - Total site users/posts/groups count
 
-## Screenshots of the app
-
-|                                        Home                                        |                                                 Sign up                                        |                                        Login                                        |
-| :--------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------: |
-| ![](https://github.com/Chenxu-nmsu/Social_Media_Website_Using_Python_and_Django/blob/master/Screenshots/Index_page.png) | ![](https://github.com/Chenxu-nmsu/Social_Media_Website_Using_Python_and_Django/blob/master/Screenshots/Sign_up_page.png) | ![](https://github.com/Chenxu-nmsu/Social_Media_Website_Using_Python_and_Django/blob/master/Screenshots/log_in_page.png) |
-
-|                                        Posts                                        |                                        Groups-1                                        |                                        Groups-2                                        |
-| :----------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------: |
-| ![](https://github.com/Chenxu-nmsu/Social_Media_Website_Using_Python_and_Django/blob/master/Screenshots/post_creation_page.png) | ![](https://github.com/Chenxu-nmsu/Social_Media_Website_Using_Python_and_Django/blob/master/Screenshots/group_page.png) | ![](https://github.com/Chenxu-nmsu/Social_Media_Website_Using_Python_and_Django/blob/master/Screenshots/group_page.png) |
-
 ## Requirements
 - Python 3.8
 - Django 3.1
@@ -40,10 +30,33 @@ This is an academic project. The main idea is to demonstrate how to build a webs
 ```sh
 python  manage.py runserver
 ```
-
+## Screenshots of the app
 - Home Page
-- ![Home Page](https://github.com/Chenxu-nmsu/Social_Media_Website_Using_Python_and_Django/blob/master/Screenshots/Index_page.png)
-
 <p align="left">
   <img src="https://github.com/Chenxu-nmsu/Social_Media_Website_Using_Python_and_Django/blob/master/Screenshots/Index_page.png" width="600" title="Home Page">
+</p>
+
+- Sign-up Page
+<p align="left">
+  <img src="https://github.com/Chenxu-nmsu/Social_Media_Website_Using_Python_and_Django/blob/master/Screenshots/Sign_up_page.png" width="600" title="Home Page">
+</p>
+
+- Log-in Page
+<p align="left">
+  <img src="https://github.com/Chenxu-nmsu/Social_Media_Website_Using_Python_and_Django/blob/master/Screenshots/log_in_page" width="600" title="Home Page">
+</p>
+
+- Create Post Page
+<p align="left">
+  <img src="https://github.com/Chenxu-nmsu/Social_Media_Website_Using_Python_and_Django/blob/master/Screenshots/post_creation_page.png" width="600" title="Home Page">
+</p>
+
+- Group Page
+<p align="left">
+  <img src="https://github.com/Chenxu-nmsu/Social_Media_Website_Using_Python_and_Django/blob/master/Screenshots/group_page.png" width="600" title="Home Page">
+</p>
+
+- Create Group Page
+<p align="left">
+  <img src="https://github.com/Chenxu-nmsu/Social_Media_Website_Using_Python_and_Django/blob/master/Screenshots/group_creation_page.png" width="600" title="Home Page">
 </p>
