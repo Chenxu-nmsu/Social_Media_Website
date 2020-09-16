@@ -43,7 +43,7 @@ python  manage.py runserver
 
 - Log-in Page
 <p align="left">
-  <img src="https://github.com/Chenxu-nmsu/Social_Media_Website_Using_Python_and_Django/blob/master/Screenshots/log_in_page" width="600" title="Home Page">
+  <img src="https://github.com/Chenxu-nmsu/Social_Media_Website_Using_Python_and_Django/blob/master/Screenshots/log_in_page.png" width="600" title="Home Page">
 </p>
 
 - Create Post Page
