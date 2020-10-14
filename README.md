@@ -1,6 +1,6 @@
 # Create a Social Media Website
 
-This is an academic project. The main idea is to demonstrate how to build a website using Python, Django, Javascript, CSS3, HTML5, jQuery, Bootstrap, etc!
+This is an indivual project. The main idea is to demonstrate how to build a website using Python, Django, Javascript, CSS3, HTML5, jQuery, Bootstrap, etc!
 
 ## Technologies used
 - HTML5: create website content
