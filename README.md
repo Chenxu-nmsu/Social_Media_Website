@@ -1,4 +1,4 @@
-# Create a Social Media Website
+# A Social Media Web Application
 
 This is an indivual project. The main idea is to demonstrate how to build a website using Python, Django, Javascript, CSS3, HTML5, jQuery, Bootstrap, etc!
 
